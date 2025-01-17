@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.658f5a85.chunk.css",
+    "main.js": "/static/js/main.e3fee247.chunk.js",
+    "main.js.map": "/static/js/main.e3fee247.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b76e0af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b76e0af.js.map",
+    "static/css/2.8482633e.chunk.css": "/static/css/2.8482633e.chunk.css",
+    "static/js/2.026206b6.chunk.js": "/static/js/2.026206b6.chunk.js",
+    "static/js/2.026206b6.chunk.js.map": "/static/js/2.026206b6.chunk.js.map",
+    "static/js/3.49b0130b.chunk.js": "/static/js/3.49b0130b.chunk.js",
+    "static/js/3.49b0130b.chunk.js.map": "/static/js/3.49b0130b.chunk.js.map",
+    "static/js/4.f2cbb207.chunk.js": "/static/js/4.f2cbb207.chunk.js",
+    "static/js/4.f2cbb207.chunk.js.map": "/static/js/4.f2cbb207.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8482633e.chunk.css.map": "/static/css/2.8482633e.chunk.css.map",
+    "static/css/main.658f5a85.chunk.css.map": "/static/css/main.658f5a85.chunk.css.map",
+    "static/js/2.026206b6.chunk.js.LICENSE.txt": "/static/js/2.026206b6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/la-solid-900.89363487.woff",
+    "static/media/kuwai-coin.cc43cb60.png": "/static/media/kuwai-coin.cc43cb60.png",
+    "static/media/kwait.1d631032.svg": "/static/media/kwait.1d631032.svg",
+    "static/media/logo.png": "/static/media/logo.967a1b71.png",
+    "static/media/master.91f6ff9b.png": "/static/media/master.91f6ff9b.png",
+    "static/media/noData.4c0c6a31.png": "/static/media/noData.4c0c6a31.png",
+    "static/media/upload-img.79024358.png": "/static/media/upload-img.79024358.png",
+    "static/media/usa.032da852.svg": "/static/media/usa.032da852.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b76e0af.js",
+    "static/css/2.8482633e.chunk.css",
+    "static/js/2.026206b6.chunk.js",
+    "static/css/main.658f5a85.chunk.css",
+    "static/js/main.e3fee247.chunk.js"
+  ]
+}
